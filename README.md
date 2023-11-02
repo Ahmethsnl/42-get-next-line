@@ -6,7 +6,7 @@ Dosya tanımlayıcılarının çalışma mantığı ve kod ile dosya içinden ve
 
 ## İnstall
 ```bash
-git clone <https://github.com/Ahmethsnl/42_get_next_line.git> get_next_line
+git clone https://github.com/Ahmethsnl/42_get_next_line.git get_next_line
 ```
 ## Main Functions
 ```c
