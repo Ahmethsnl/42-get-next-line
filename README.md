@@ -1,6 +1,7 @@
+# Get Next Line
+
 [![Son Commit](https://img.shields.io/github/last-commit/ahmethsnl/42-get-next-line?style=flat)](https://github.com/ahmethsnl/42-get-next-line/commits)
 
-# Get Next Line
 
 Dosya tanımlayıcılarının çalışma mantığı ve kod ile dosya içinden veri okumak için kullanılan birkaç fonksiyon.
 
